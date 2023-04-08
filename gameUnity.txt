@@ -1,11 +1,4 @@
 
                         GAMING PROJECT
-                  You must use Unity and C#
-                  Do Not include outside sources and resources(in case you do, let me know. But it is best not to)
-                  Everyting is provided for you(All the resources you need is there)
-                  Do not create anything from scratch because the project is complete. You just have to add some functionalities.
-                  All the necessary scripts are provided to you
-                  Believe me that everything is there. If you don't see it, please look again.
-                  Contact me if you need help.
-                  Understand that this material must not be published online or distribut
+                   
  
