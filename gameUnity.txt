@@ -1,0 +1,19 @@
+
+                        GAMING PROJECT
+                  You must use Unity and C#
+                  Do Not include outside sources and resources(in case you do, let me know. But it is best not to)
+                  Everyting is provided for you(All the resources you need is there)
+                  Do not create anything from scratch because the project is complete. You just have to add some functionalities.
+                  All the necessary scripts are provided to you
+                  Believe me that everything is there. If you don't see it, please look again.
+                  Contact me if you need help.
+                  Understand that this material must not be published online or distributed.
+
+For this project you must add and implement fighting controls over the existing script(s) so that the player can:
+*Kick   [note that the kick must be random when the right mouse is clicked. There are 3 kicks animations]
+*punch  [note that the punch must be random when the left mouse is clicked. I want you to know that there are 3 punches animations]
+*shoots [note that you must use the 'X' key to shoot. In this case, the character shoots arrow. Use the arrow animation]
+In addition:
+*the character must only allow to fight when he is on the ground because right now he can jump and run.
+*The character can switch to different fighting techniques (in this case kick, punch, and shoot) without problem at anytime.
+*Shoot arrow while running or walking. When not shooting, the character must not stay in shooing style and stand normal again.
